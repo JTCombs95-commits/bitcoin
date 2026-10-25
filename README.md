@@ -1,6 +1,6 @@
 Bitcoin Core integration/staging tree
 =====================================
-
+[![CI](https://github.com/bitcoin/bitcoin/actions/workflows/ci.yml/badge.svg)](https://github.com/bitcoin/bitcoin/actions/workflows/ci.yml)
 https://bitcoincore.org
 
 For an immediately usable, binary version of the Bitcoin Core software, see
